@@ -32,8 +32,8 @@ The longest subarray with that value is [4], so we return 1.
 
 **Constraints:**
 
-- 1 <= nums.length <= 105
-- 1 <= nums[i] <= 106
+- 1 <= nums.length <= 10^5
+- 1 <= nums[i] <= 10^6
 
 # Intuition:
 
